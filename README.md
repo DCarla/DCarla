@@ -1,6 +1,6 @@
 # 📍  Ola! Eu sou a Carla Souza
 
-📈 - Habilidades TI
+📈 - Codificando o futuro, uma linha de código de cada vez.
 
 💡 - Explorando o desenvolvimento com entusiasmo e compromisso
 
