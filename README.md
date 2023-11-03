@@ -1,8 +1,8 @@
 # 📍  Ola! Eu sou a Carla Souza
 
-📈 - Migrando para Tecnologia
+📈 - Habilidades TI
 
-💡 - Novos desafios.
+💡 - Explorando o desenvolvimento com entusiasmo e compromisso
 
 📝 - Aperfeiçoando Front-End e Back-End.
 
